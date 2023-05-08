@@ -1,6 +1,8 @@
 # Certificates
 This all my certificates of my Engineering Career....:)
 # badges:
+![cybersecurity-essentials](https://user-images.githubusercontent.com/91558870/236820997-c2596838-5d1b-4f29-8c7f-4d511a3e45aa.png)
+
 ![introduction-to-cybersecurity](https://user-images.githubusercontent.com/91558870/236614482-1aa2ac52-bc79-4d91-a288-8500696c86dc.png)
 
 ![networking-basics (1)](https://user-images.githubusercontent.com/91558870/236288859-f5dd3797-6d86-4b4d-bd4b-99502e9f91c1.png)
