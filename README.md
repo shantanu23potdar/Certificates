@@ -1,6 +1,7 @@
 # Certificates
 This all my certificates of my Engineering Career....:)
 # badges:
+![CyberOps Associate](https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)
 ![cybersecurity-essentials](https://user-images.githubusercontent.com/91558870/236820997-c2596838-5d1b-4f29-8c7f-4d511a3e45aa.png)
 
 ![introduction-to-cybersecurity](https://user-images.githubusercontent.com/91558870/236614482-1aa2ac52-bc79-4d91-a288-8500696c86dc.png)
